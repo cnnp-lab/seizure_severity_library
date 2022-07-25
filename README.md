@@ -8,6 +8,9 @@ The overall rational of this library is that several seizure markers should be c
 If you want a quick demo to see what this library can do, start by running **start_here_with_example_data.m**. Some seizure EEG data is included in this repo as a demo, and has been downloaded from the publicly available [ieeg-swez](http://ieeg-swez.ethz.ch/) longterm database.
 
 
+The associated scientific publication is currently: [Gascoigne 2022](https://arxiv.org/abs/2206.15283) 
+
+
 We are inviting the epilepsy research community to contribute to this library, so please either contact us and/or use pull requests.
 
 
